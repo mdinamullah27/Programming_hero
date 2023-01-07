@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+
+}
+.banner{
+    height: 808px;
+    width: 1600px;
+    background-color: #F3F3F3;
+    background-image: url("/images/banner/banner1.png");
+    background-repeat: no-repeat;
+    text-align: right;
+    margin: 0 auto;
+    padding-right: 250px;
+    padding-top: 250px;
+    font-style:inherit;
+    
+      
+}
+.scond_banner{
+    height: 800px;
+    width: 1600px;
+   
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.person{
+    width: 50%;
+    height: 100%;
+    background-image: url("/images/person.png");
+    background-repeat: no-repeat;
+    
+    float: left;
+}
+.person_description{
+    height: 100%;
+    width: 50%;
+    
+    float:right;
+}
+.My_plane{
+    width: 1600px;
+    height: 400px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+}
+.skills{
+    float: left;
+    width: 25%;
+    
+
+
+}
+.Gredient_style{
+    width: 1130px;
+    height: 300px;
+    margin: 0 auto;
+    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url("/images/watch.png");
+    
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+.foter{
+    width: 1600px;
+    height: 400px;
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+    margin-bottom: 10px;
+    
+
+    
+}
+.foter_text{
+    
+    width: 1100px;
+   
+    margin: 0 auto ;
+   
+}
+.My_research{
+    width: 1600px;
+    height: 600px;
+    padding-left: 100px;
+    background-color: #F3F3F3;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    padding-top: 50px;
+}
+.my_experience{
+    width: 50%;
+    height: 100%;
+    float: left;
+
+}
