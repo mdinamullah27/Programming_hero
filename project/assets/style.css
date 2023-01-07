@@ -9,7 +9,7 @@
     height: 808px;
     width: 1600px;
     background-color: #F3F3F3;
-    background-image: url("/images/banner/banner1.png");
+    background-image: url("/project/images/banner/banner1.png");
     background-repeat: no-repeat;
     text-align: right;
     margin: 0 auto;
@@ -30,7 +30,7 @@
 .person{
     width: 50%;
     height: 100%;
-    background-image: url("/images/person.png");
+    background-image: url("/project/images/person.png");
     background-repeat: no-repeat;
     
     float: left;
@@ -59,7 +59,7 @@
     width: 1130px;
     height: 300px;
     margin: 0 auto;
-    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url("/images/watch.png");
+    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url("/project/images/watch.png");
     
     background-repeat: no-repeat;
     margin-bottom: 100px;
